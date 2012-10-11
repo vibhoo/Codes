@@ -7,7 +7,7 @@ set :application, "Vbihoo"
 
 
 set :scm, :git
-set :repository, "git@github.com:vibhoo/try_git.git"
+set :repository, "git@github.com:vibhoo/Codes.git"
 set :scm_passphrase,""
 
 set :user,"root"
